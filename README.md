@@ -11,7 +11,7 @@ Sou estudante de Segurança da Informação na Anhembi Morumbi e sou apaixonado 
 
 ## 🤳Se quiser saber mais sobre mim, ficarei feliz em nos conectarmos!
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-31AAF5?style=for-the-badge&logo=linkedin&logoColor=white)](https:/www.linkedin.com/in/john-vidal-101607345)
+[![linkedin](https://img.shields.io/badge/LinkedIn-31AAF5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-vidal-101607345)
 [![GMAIl](https://img.shields.io/badge/Gmail-31AAF5?style=for-the-badge&logo=gmail&logoColor=white)](https://johnsantosvidal21@gmail.com)
 
 
